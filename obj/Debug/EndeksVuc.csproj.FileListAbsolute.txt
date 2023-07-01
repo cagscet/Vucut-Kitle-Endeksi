@@ -1,0 +1,8 @@
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\EndeksVuc\EndeksVuc\bin\Debug\EndeksVuc.exe.config
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\EndeksVuc\EndeksVuc\bin\Debug\EndeksVuc.exe
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\EndeksVuc\EndeksVuc\bin\Debug\EndeksVuc.pdb
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\EndeksVuc\EndeksVuc\obj\Debug\EndeksVuc.csproj.AssemblyReference.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\EndeksVuc\EndeksVuc\obj\Debug\EndeksVuc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\EndeksVuc\EndeksVuc\obj\Debug\EndeksVuc.csproj.CoreCompileInputs.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\EndeksVuc\EndeksVuc\obj\Debug\EndeksVuc.exe
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\EndeksVuc\EndeksVuc\obj\Debug\EndeksVuc.pdb
